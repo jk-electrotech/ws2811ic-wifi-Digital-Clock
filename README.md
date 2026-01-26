@@ -1,1 +1,1 @@
-# customws2811-wifi-Digital-Clock
+# custom ws2811ic-wifi-Digital-Clock
